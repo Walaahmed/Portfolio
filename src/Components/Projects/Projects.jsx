@@ -126,7 +126,7 @@ const Projects = () => {
         "Interactive personal portfolio built with React, Framer Motion, and Tailwind for smooth animations and modern UI.",
       image: "/projects/img7.png",
       technologies: ["React", "Framer Motion", "Tailwind CSS", "TypeScript"],
-      liveUrl: "#",
+      liveUrl: "https://portfolio-gilt-tau-22.vercel.app/",
       githubUrl: "https://github.com/Walaahmed/Portfolio",
     },
   ];
