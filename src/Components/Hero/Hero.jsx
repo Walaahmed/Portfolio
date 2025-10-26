@@ -42,8 +42,10 @@ const Hero = () => {
 
   return (
     <section
-      id="home"
-      className="min-h-screen flex items-center justify-center px-6 bg-gradient-to-b from-[#0a0a0a] via-[#111] to-[#141414] text-white relative overflow-hidden"
+       id="home"
+  className="min-h-screen flex items-center justify-center px-6 
+  bg-gradient-to-b from-[#0a0a0a] via-[#0f0f0f] to-[#000000]
+  pt-24 sm:pt-32 md:pt-40"
     >
       {/* خلفية متحركة خفيفة */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(0,234,255,0.1)_0%,transparent_70%)] animate-pulse"></div>
