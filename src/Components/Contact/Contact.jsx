@@ -1,7 +1,7 @@
 import { useState } from "react";
 import {
   FaEnvelope,
-  FaPhone,
+  // FaPhone,
   FaMapMarkerAlt,
   FaGithub,
   FaLinkedin,
@@ -25,12 +25,12 @@ const Contact = () => {
       value: "wlaa61462@gmail.com",
       href: "mailto:wlaa61462@gmail.com",
     },
-    {
-      icon: <FaPhone className="text-cyan-400 text-xl" />,
-      title: "Phone",
-      value: "+20 111 025 6517",
-      href: "tel:+201110256517",
-    },
+    // {
+    //   icon: <FaPhone className="text-cyan-400 text-xl" />,
+    //   title: "Phone",
+    //   value: "+20 111 025 6517",
+    //   href: "tel:+201110256517",
+    // },
     {
       icon: <FaMapMarkerAlt className="text-cyan-400 text-xl" />,
       title: "Location",
