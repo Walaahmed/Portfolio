@@ -301,13 +301,12 @@ const Projects = () => {
       githubUrl: "https://github.com/Walaahmed/arabtecWeb",
       featured: true,
     },
-    ==== مشروع ATC Consulting ====
     {
       id: 8,
       title: "ATC Consulting Platform",
       description:
         "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
-      image: "/projects/atc.jpg",
+      image: "/projects/atc.png",
       technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
       liveUrl: "https://atc-website-swart.vercel.app/",
       githubUrl: "https://github.com/Walaahmed/ATC_website",
