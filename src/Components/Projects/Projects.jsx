@@ -301,18 +301,18 @@ const Projects = () => {
       githubUrl: "https://github.com/Walaahmed/arabtecWeb",
       featured: true,
     },
-    // ==== مشروع ATC Consulting ====
-    // {
-    //   id: 8,
-    //   title: "ATC Consulting Platform",
-    //   description:
-    //     "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
-    //   image: "/projects/atc.jpg",
-    //   technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
-    //   liveUrl: "https://atc-consulting.vercel.app/",
-    //   githubUrl: "https://github.com/your-username/atc-platform",
-    //   featured: true,
-    // },
+    ==== مشروع ATC Consulting ====
+    {
+      id: 8,
+      title: "ATC Consulting Platform",
+      description:
+        "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
+      image: "/projects/atc.jpg",
+      technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
+      liveUrl: "https://atc-consulting.vercel.app/",
+      githubUrl: "https://github.com/your-username/atc-platform",
+      featured: true,
+    },
     {
       id: 1,
       title: "Clinic System Platform",
@@ -361,7 +361,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Walaahmed/shop-cart",
     },
       {
-      id: 10,
+      id: 9,
         title: "Spendly",
       description:
         "NodeA full-stack expense tracker with interactive charts. Users sign up, log expenses, and see where their money goes through a monthly dashboard.",
