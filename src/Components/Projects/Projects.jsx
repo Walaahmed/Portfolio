@@ -309,8 +309,8 @@ const Projects = () => {
         "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
       image: "/projects/atc.jpg",
       technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
-      liveUrl: "https://atc-consulting.vercel.app/",
-      githubUrl: "https://github.com/your-username/atc-platform",
+      liveUrl: "https://atc-website-swart.vercel.app/",
+      githubUrl: "https://github.com/Walaahmed/ATC_website",
       featured: true,
     },
     {
