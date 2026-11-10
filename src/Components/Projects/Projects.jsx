@@ -360,6 +360,17 @@ const Projects = () => {
         "https://www.linkedin.com/posts/walaa-ahmed-a73783262_angular-bootstrap-ecommerce-activity-7337485094439243776-T5hq",
       githubUrl: "https://github.com/Walaahmed/shop-cart",
     },
+      {
+      id: 10,
+        title: "Spendly",
+      description:
+        "NodeA full-stack expense tracker with interactive charts. Users sign up, log expenses, and see where their money goes through a monthly dashboard.",
+      image: "/projects/Spendly.png",
+      technologies: ["React", "TypeScript", "Tailwind CSS", "i18next","Node.JS","Neon","Express","SQLite","JWTauth"],
+      liveUrl: "https://spendly-pi-ten.vercel.app/",
+      githubUrl: "https://github.com/Walaahmed/expense-tracker",
+      featured: true,
+    },
     {
       id: 5,
       title: "Movies & TV Shows App",
