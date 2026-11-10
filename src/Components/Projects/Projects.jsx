@@ -302,17 +302,6 @@ const Projects = () => {
       featured: true,
     },
     {
-      id: 8,
-      title: "ATC Consulting Platform",
-      description:
-        "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
-      image: "/projects/atc.png",
-      technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
-      liveUrl: "https://atc-website-swart.vercel.app/",
-      githubUrl: "https://github.com/Walaahmed/ATC_website",
-      featured: true,
-    },
-    {
       id: 1,
       title: "Clinic System Platform",
       description:
@@ -390,6 +379,17 @@ const Projects = () => {
       technologies: ["React", "Framer Motion", "Tailwind CSS", "TypeScript"],
       liveUrl: "https://portfolio-gilt-tau-22.vercel.app/",
       githubUrl: "https://github.com/Walaahmed/Portfolio",
+    },
+        {
+      id: 8,
+      title: "ATC Consulting Platform",
+      description:
+        "Integrated consulting platform for ATC, featuring service catalog, digital transformation, training programs, and client booking system.",
+      image: "/projects/atc.png",
+      technologies: ["React", "Framer Motion", "Tailwind CSS", "FormSubmit"],
+      liveUrl: "https://atc-website-swart.vercel.app/",
+      githubUrl: "https://github.com/Walaahmed/ATC_website",
+      featured: true,
     },
   ];
 
